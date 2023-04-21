@@ -1,0 +1,1 @@
+import{s as o,k as a}from"./index-8c94a1dd.js";const n=o("wkdeatil",()=>{let e=a(null);function t(r){sessionStorage.setItem("detail",r)}function s(){return e=JSON.parse(sessionStorage.getItem("detail")),e}return{s_workDeatil:e,s_setDeatil:t,s_getDetail:s}});export{n as s};
